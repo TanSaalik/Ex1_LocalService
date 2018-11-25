@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ex1_LocalService</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="connect">Connect</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="local_service_started">Local service started</string>
+    <string name="local_service_stopped">Local service stopped</string>
+    <string name="local_service_label">Local service label</string>
+    <string name="local_service_connected">Local service connected</string>
+    <string name="local_service_disconnected">Local service disconnected</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connected">Connected</string>
+</resources>
